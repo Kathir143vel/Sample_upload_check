@@ -1,0 +1,3 @@
+// config.js
+export const API_URL = "https://api.smartfarm.ai";
+export const DEBUG = true;
