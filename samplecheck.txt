@@ -1,3 +1,1 @@
-// config.js
-export const API_URL = "https://api.smartfarm.ai";
-export const DEBUG = true;
+i am changing the contents of this file to check how git works with changing a content of a folder bty tracking its veresion
